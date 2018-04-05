@@ -1,0 +1,25 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Hangman Advanced Javascript",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asalvador95/constructor-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asalvador95/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/asalvador95/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}

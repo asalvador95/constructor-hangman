@@ -1,2 +1,2 @@
 # constructor-hangman
-node hangman
+Hangman Advanced Javascript
